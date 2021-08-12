@@ -6,7 +6,7 @@ You can view my most recent project at https://circuit-timer-d79ac.web.app/.
     - Frontend software developement using HTML/CSS, Javascript and React.
     - UI/UX design.
   
-  ### Contact Details
+  ### Contact Details:
     - Phone : +447950269830
     - Email : olliecroysdill@hotmail.com
   
